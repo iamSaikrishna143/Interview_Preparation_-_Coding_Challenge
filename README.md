@@ -2,6 +2,30 @@
 
  Backend Development Course - 60 Days Mastery
  https://github.com/Aestheticsuraj234/backend-batch
+
+
+-----------------------------------------
+https://github.com/krasimir/react-in-patterns
+
+https://github.com/antonioru/beautiful-react-hooks
+
+https://github.com/enaqx/awesome-react
+
+https://github.com/Asabeneh/30-Days-Of-React/tree/master
+
+https://github.com/alexgurr/react-coding-challenges
+
+https://github.com/adam-golab/react-developer-roadmap
+
+https://github.com/alsiam/web-projects
+
+https://upmostly.com/ultimate-reactjs-cheat-sheet
+
+https://devhints.io/react
+
+https://upmostly.com/ultimate-reactjs-cheat-sheet
+
+https://cheatsheets.shecodes.io/react
 --------------------
 
 https://github.com/piyush-eon/frontend-interview-questions
